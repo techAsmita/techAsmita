@@ -15,7 +15,6 @@
 
 ### 🏆 Highlights
 
-* 💡 Built **ContractShield AI** – Multi-Agent Contract Intelligence Platform
 * ☎️ Developed **CFLO Agent** – AI-powered Voice Agent for FinTech Collections
 * 👁️ Created **BrailleVision** – Real-Time Braille to English Converter
 * 📑 Built **CRE Underwriting AI** for intelligent financial document analysis
