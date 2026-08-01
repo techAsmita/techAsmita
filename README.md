@@ -25,22 +25,22 @@ I enjoy transforming ambitious ideas into AI-powered products that solve real-wo
 
 ### 🧠 Featured Projects
 
-**📊 [DecisionIQ](https://github.com/techAsmita)**
+**📊 [DecisionIQ](https://github.com/techAsmita/DecisionIQ)**
 AI-powered Decision Intelligence Platform for pharmaceutical sales — forecasting, executive dashboards, and AI-driven business insights.
 
-**☎️ [CFLO Agent](https://github.com/techAsmita)**
+**☎️ [CFLO Agent](https://github.com/techAsmita/CFLO-Agent)**
 AI Voice Agent for FinTech debt collection with intelligent conversational workflows.
 
-**🏢 [CRE Underwriting AI](https://github.com/techAsmita)**
+**🏢 [CRE Underwriting AI](https://github.com/techAsmita/CRE-Underwriting-AI)**
 AI platform automating financial document analysis for commercial real estate underwriting.
 
-**⠿ [BrailleVision](https://github.com/techAsmita)**
+**⠿ [BrailleVision](https://github.com/techAsmita/BrailleVision)**
 Real-time Braille-to-English accessibility system using computer vision.
 
-**💄 [StyleSync AI](https://github.com/techAsmita)**
+**💄 [StyleSync AI](https://github.com/techAsmita/StyleSync-AI)**
 Revenue intelligence platform helping beauty businesses maximize revenue through AI-driven insights.
 
-**🔒 [Zero Trace](https://github.com/techAsmita)**
+**🔒 [Zero Trace](https://github.com/techAsmita/Zero-Trace)**
 Privacy-focused, secure authentication application.
 
 ---
@@ -77,7 +77,9 @@ Privacy-focused, secure authentication application.
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -108,12 +110,12 @@ Agentic AI · Multi-Agent Systems · Voice AI · Retrieval-Augmented Generation 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=techAsmita&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=techAsmita&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=techAsmita&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=techAsmita&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techAsmita&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techAsmita&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
