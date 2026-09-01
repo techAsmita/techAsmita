@@ -1,117 +1,111 @@
 <h1 align="center">Hi 👋, I'm Asmita Roy</h1>
 
-<h3 align="center">AI Engineer • Full Stack Developer • Building Agentic AI Systems</h3>
+<h3 align="center">AI Engineer • Software Engineer • Full-Stack Developer</h3>
 
 <p align="center">
-Computer Engineering Student @ Thapar Institute of Engineering & Technology (2023–2027)
+Computer Engineering Student @ Thapar Institute of Engineering & Technology
 </p>
 
 <p align="center">
-I enjoy transforming ambitious ideas into AI-powered products that solve real-world problems — building production-ready AI applications through modern AI technologies, full-stack development, and intelligent automation.
+Building AI-powered products, intelligent systems, and production-oriented full-stack applications.
 </p>
 
 ---
 
-### 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 Computer Engineering Student @ TIET, Class of 2027
-- 🤖 Building AI-powered products with LLMs, RAG, and AI Agents
-- 💻 Full Stack Developer — React, FastAPI, Node.js
-- 🌱 Currently exploring Agentic AI, Multi-Agent Systems & Voice AI
-- 🏆 Hackathon builder & open source contributor
-- 💬 Ask me about **Python, AI/ML, FastAPI, React, RAG, SQL**
+I'm a Computer Engineering student at Thapar Institute of Engineering & Technology, interested in building software that combines **Artificial Intelligence, strong engineering, and real-world usability**.
 
----
+I enjoy taking ideas from concept to working product — designing the system, building the backend and frontend, integrating AI models, and deploying applications that people can actually use.
 
-### 🧠 Featured Projects
+My work spans **Generative AI, Agentic AI, Machine Learning, Computer Vision, NLP, Data Science, and Full-Stack Development**.
 
-**📊 [DecisionIQ](https://github.com/techAsmita/DecisionIQ)**
-AI-powered Decision Intelligence Platform for pharmaceutical sales — forecasting, executive dashboards, and AI-driven business insights.
-
-**☎️ [CFLO Agent](https://github.com/techAsmita/CFLO-Agent)**
-AI Voice Agent for FinTech debt collection with intelligent conversational workflows.
-
-**🏢 [CRE Underwriting AI](https://github.com/techAsmita/CRE-Underwriting-AI)**
-AI platform automating financial document analysis for commercial real estate underwriting.
-
-**⠿ [BrailleVision](https://github.com/techAsmita/BrailleVision)**
-Real-time Braille-to-English accessibility system using computer vision.
-
-**💄 [StyleSync AI](https://github.com/techAsmita/StyleSync-AI)**
-Revenue intelligence platform helping beauty businesses maximize revenue through AI-driven insights.
-
-**🔒 [Zero Trace](https://github.com/techAsmita/Zero-Trace)**
-Privacy-focused, secure authentication application.
+- 🎓 B.E. Computer Engineering @ TIET | 2023–2027
+- 🤖 Building with LLMs, AI Agents, RAG & Generative AI
+- 💻 Developing full-stack applications with React, FastAPI & Node.js
+- 🧠 Exploring Agentic AI, Multi-Agent Systems & AI Evaluation
+- 🔬 Interested in applied AI, intelligent automation & AI product engineering
+- 🏆 Hackathon builder & open-source contributor
+- 🚀 Focused on building reliable, scalable and user-focused software
 
 ---
 
-### 🛠 Tech Stack
+## 🧠 What I Work On
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Artificial Intelligence
+LLMs • Generative AI • Agentic AI • RAG • AI Agents • Prompt Engineering  
+Machine Learning • Deep Learning • Computer Vision • NLP • Speech AI
 
-**AI / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-black?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-black?style=for-the-badge)
+### Software Engineering
+Python • Java • C++ • JavaScript • TypeScript • SQL  
+React • FastAPI • Node.js • Express.js • REST APIs
 
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+### Data & ML
+Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch  
+Data Analysis • Feature Engineering • Model Development
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+### Databases & Infrastructure
+PostgreSQL • MySQL • SQLite • Oracle  
+Git • GitHub • Docker • Vercel • Render
 
 ---
 
-### 🌱 Current Interests
+## 🔭 Currently Exploring
 
-Agentic AI · Multi-Agent Systems · Voice AI · Retrieval-Augmented Generation · AI Evaluation · Scalable AI Infrastructure · AI Product Engineering
+- Agentic AI & Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- LLM application architecture
+- AI evaluation & reliability
+- Voice AI & conversational systems
+- Scalable AI infrastructure
+- Production-oriented AI engineering
 
 ---
 
-### 🏅 Achievements
+## 🏗️ My Engineering Approach
+
+I like building systems where AI is more than a demo.
+
+**Idea → Architecture → AI Integration → Full-Stack Implementation → Deployment → Iteration**
+
+I'm particularly interested in understanding how AI systems behave in real applications — including **latency, reliability, evaluation, user experience, system design, and deployment**.
+
+---
+
+## 🏆 Beyond Code
 
 - 🎓 Amazon ML Summer School 2026
-- 🌍 GSSoC'25 Open Source Contributor
-- 🌍 OSCI'25 Open Source Contributor
-- 🚀 Multiple National AI Hackathon builds
-- 💡 AI products shipped across Healthcare, Finance, Accessibility, Analytics & Security
+- 🌍 Google Summer of Code / Open Source contributor
+- 🌍 Open Source contributor
+- 🏆 Hackathon participant & builder
+- 💡 Building AI solutions across different real-world domains
+- 📚 Continuously learning through projects, research and experimentation
 
 ---
 
-### 🤝 Connect With Me
+## 📈 What You'll Find Here
+
+This profile is a collection of my learning, experiments, coursework, open-source contributions, hackathon builds, and production-oriented projects.
+
+I'm constantly building and improving — so this space evolves with me.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with:
+
+**AI Engineers • Software Developers • Researchers • Founders • Open-Source Contributors • Builders**
 
 <p align="center">
-<a href="https://github.com/techAsmita"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:asmitaasmani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/techAsmita">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/techasmita/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
-<p align="center"><i>Always learning. Always building. Always shipping. 🚀</i></p>
+<p align="center">
+<i>Build. Learn. Ship. Repeat. 🚀</i>
+</p>
