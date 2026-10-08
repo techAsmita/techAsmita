@@ -1,13 +1,13 @@
-<!-- ================= HEADER ================= -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,45:9B8AFB,100:2CB67D&height=165&section=header&text=Asmita%20Roy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Full-Stack&descAlignY=61&descSize=17"
-  width="100%"
-  alt="Asmita Roy"
-/>
+<h1 align="center">
+  Asmita Roy
+</h1>
 
 <p align="center">
-  <b>Computer Engineering @ Thapar Institute of Engineering & Technology</b>
+  <strong>Computer Engineering @ Thapar Institute of Engineering & Technology</strong>
+</p>
+
+<p align="center">
+  AI/ML&nbsp; • &nbsp;Software Engineering&nbsp; • &nbsp;Full-Stack Development
 </p>
 
 <p align="center">
@@ -16,15 +16,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/techasmita/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://techasmita.github.io/Portfolio-Website/">
-    <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:asmitaasmani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
