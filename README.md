@@ -55,7 +55,11 @@ Agreements · Risk · Decision Support. Helps founders understand what they're s
 </tr>
 </table>
 
-<sub>More hackathon builds, research and experiments → [all repositories](https://github.com/techAsmita?tab=repositories)</sub>
+<div align="center">
+
+### **More hackathon builds, research and experiments → [all repositories](https://github.com/techAsmita?tab=repositories)**
+
+</div>
 
 ## ✦ What I Like Building
 
