@@ -4,20 +4,6 @@
 
 </div>
 
-<table width="100%">
-<tr>
-<td align="center">
-
-**👩‍💻 COMPUTER ENGINEERING @ TIET**
-
-I build at the intersection of **AI and software**: intelligent applications, agents and full-stack products.
-
-2023–2027 &nbsp;·&nbsp; AI / ML &nbsp;·&nbsp; AI Products
-
-</td>
-</tr>
-</table>
-
 ## ✦ Featured Projects
 
 <table width="100%">
