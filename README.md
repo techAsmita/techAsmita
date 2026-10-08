@@ -1,169 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B7CF6,50:F4A6C0,100:63C7A6&height=210&section=header&text=Hi%2C%20I'm%20Asmita%20%E2%9C%A6&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Full-Stack%20Products&descAlignY=60&descSize=18" width="100%" alt="Asmita Roy header" />
-
-<a href="https://github.com/techAsmita">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=8B7CF6&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Thapar+Institute+%C2%B7+2023%E2%80%932027;I+turn+ideas+into+AI+products+people+actually+use;Hackathon+team+lead+%C2%B7+Build.+Learn.+Ship.+Repeat." alt="Typing animation" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/techasmita/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://techasmita.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-8B7CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:asmitaasmani@gmail.com"><img src="https://img.shields.io/badge/Email-F4A6C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=techAsmita&style=for-the-badge&color=63C7A6&label=VISITORS" alt="Profile views" />
+<img src="assets/banner.svg" width="100%" alt="Asmita Roy: AI / ML, Software, AI Products" />
 
 </div>
 
 <br/>
 
-## ✦ About me
+<table>
+<tr>
+<td align="center">
 
-I build at the intersection of **AI and software**: agents, intelligent applications, and full-stack products, taken from idea to a live demo.
+**👩‍💻 COMPUTER ENGINEERING @ TIET**
 
-I'm a Computer Engineering student at **Thapar Institute of Engineering & Technology**, and I spend most of my time at hackathons, usually leading the team and shipping the whole thing end to end.
+I build at the intersection of **AI and software**: intelligent applications, agents and full-stack products.
 
-**What drives me**
-I like problems where AI has to make a *decision*, not just generate text: finding what a learner misunderstands, what a salon should do with an empty slot, what a founder should worry about in a contract.
+🎓 2023–2027 &nbsp;·&nbsp; 🤖 AI / ML &nbsp;·&nbsp; 🚀 AI Products
 
----
+</td>
+</tr>
+</table>
 
-## ✦ Featured projects
+<br/>
+
+## ✦ Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎓 [LearnLoop AI](https://github.com/techAsmita/LearnLoop-AI)
-*Adaptive AI tutor*
+### 🧠 [LearnLoop AI](https://github.com/techAsmita/LearnLoop-AI)
+**Adaptive AI Tutor**
 
-Finds a learner's misconceptions, delivers a targeted intervention, reassesses understanding, and updates the learner's state so the next step fits them.
+Detects misconceptions → intervenes → reassesses → adapts to the learner.
 
-`Next.js` `FastAPI` `Gemini` `SQLAlchemy`
+`Next.js` · `FastAPI` · `Gemini` · `SQLAlchemy`
 
-[Live demo](https://learnloop-ai-eight.vercel.app/) · [Code](https://github.com/techAsmita/LearnLoop-AI)
+[Live Demo](https://learnloop-ai-eight.vercel.app/) · [Code](https://github.com/techAsmita/LearnLoop-AI)
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 💅 [StyleSync AI](https://github.com/techAsmita/StyleSync-AI)
-*Revenue intelligence for beauty businesses*
+**Revenue Intelligence for Beauty Businesses**
 
-Four specialised AI agents work together. **RevenuePilot AI** turns idle salon capacity into predictable revenue, and **AI StyleMatch** gives customers personalised beauty decisions. Built for AI Startup Buildathon 2026.
+AI agents → revenue → personalised decisions.
 
-`React` `FastAPI` `Groq · LLaMA 3.3 70B` `Vercel` `Render`
+`React` · `FastAPI` · `Groq` · `Vercel` · `Render`
 
-[Live demo](https://style-sync-ai-chi.vercel.app/) · [Code](https://github.com/techAsmita/StyleSync-AI)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📄 [Pactra AI](https://github.com/techAsmita/Pactra-AI-Project)
-*Founder decision intelligence*
-
-A decision layer that helps founders understand agreements, spot risks, and make the important contractual calls with confidence.
-
-`FastAPI` `PostgreSQL` `AI`
-
-[Live demo](https://pactra-ai-project.vercel.app/) · [Code](https://github.com/techAsmita/Pactra-AI-Project)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏆 Competitions & research
-*Beyond the three above*
-
-- **TrustGuard AI**: phishing and digital-trust decision engine, Cyber AI Hackathon 2026
-- **HireNext.ai**: multimodal AI video-interview assessment, with an IEEE-format survey paper
-- **CaseVerse 2.0**: national business case competition (Team Stratify)
-
-[All repositories →](https://github.com/techAsmita?tab=repositories)
+[Live Demo](https://style-sync-ai-chi.vercel.app/) · [Code](https://github.com/techAsmita/StyleSync-AI)
 
 </td>
 
 </tr>
 </table>
 
----
+<table>
+<tr>
+<td width="100%" valign="top">
 
-## ✦ Tech stack
+### 📄 [Pactra AI](https://github.com/techAsmita/Pactra-AI-Project)
+**Founder Decision Intelligence**
 
-<div align="center">
+Agreements · Risk · Decision Support. A decision layer that helps founders understand what they are signing and what could go wrong.
+
+`FastAPI` · `PostgreSQL` · `AI`
+
+[Live Demo](https://pactra-ai-project.vercel.app/) · [Code](https://github.com/techAsmita/Pactra-AI-Project)
+
+</td>
+</tr>
+</table>
+
+<sub>More hackathon builds, research and experiments → [all repositories](https://github.com/techAsmita?tab=repositories)</sub>
+
+<br/>
+
+## ✦ What I Like Building
+
+- **AI that does something**, not just generates text
+- Adaptive learning systems
+- Decision-support products
+- AI-powered business tools
+- Multimodal applications
+- Full-stack products that go beyond the demo
+
+<br/>
+
+## ✦ Tech I Build With
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts&theme=dark" alt="Languages" />
-
-**Frontend and backend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,postgres&theme=dark" alt="Frontend and backend" />
+![Python](https://img.shields.io/badge/Python-1F2430?style=flat-square&logo=python&logoColor=B9A8FF)
+![C++](https://img.shields.io/badge/C%2B%2B-1F2430?style=flat-square&logo=cplusplus&logoColor=B9A8FF)
+![Java](https://img.shields.io/badge/Java-1F2430?style=flat-square&logo=openjdk&logoColor=B9A8FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2430?style=flat-square&logo=javascript&logoColor=B9A8FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2430?style=flat-square&logo=typescript&logoColor=B9A8FF)
+![SQL](https://img.shields.io/badge/SQL-1F2430?style=flat-square&logo=postgresql&logoColor=B9A8FF)
 
 **AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI and ML" /><br/>
-<sub>Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · LLM apps · AI agents</sub>
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-1F2430?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-1F2430?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1F2430?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-1F2430?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-1F2430?style=flat-square)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-1F2430?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-1F2430?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1F2430?style=flat-square&logo=tensorflow&logoColor=F4A6C0)
+![OpenCV](https://img.shields.io/badge/OpenCV-1F2430?style=flat-square&logo=opencv&logoColor=F4A6C0)
 
-**Tools and deployment**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel&theme=dark" alt="Tools" />
+**Product Engineering**<br/>
+![React](https://img.shields.io/badge/React-1F2430?style=flat-square&logo=react&logoColor=B9A8FF)
+![Next.js](https://img.shields.io/badge/Next.js-1F2430?style=flat-square&logo=nextdotjs&logoColor=B9A8FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-1F2430?style=flat-square&logo=fastapi&logoColor=B9A8FF)
+![Node.js](https://img.shields.io/badge/Node.js-1F2430?style=flat-square&logo=nodedotjs&logoColor=B9A8FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2430?style=flat-square&logo=postgresql&logoColor=B9A8FF)
 
-</div>
+**Tools**<br/>
+![Git](https://img.shields.io/badge/Git-1F2430?style=flat-square&logo=git&logoColor=7FDBD0)
+![GitHub](https://img.shields.io/badge/GitHub-1F2430?style=flat-square&logo=github&logoColor=7FDBD0)
+![Docker](https://img.shields.io/badge/Docker-1F2430?style=flat-square&logo=docker&logoColor=7FDBD0)
+![Postman](https://img.shields.io/badge/Postman-1F2430?style=flat-square&logo=postman&logoColor=7FDBD0)
+![Vercel](https://img.shields.io/badge/Vercel-1F2430?style=flat-square&logo=vercel&logoColor=7FDBD0)
+![Render](https://img.shields.io/badge/Render-1F2430?style=flat-square&logo=render&logoColor=7FDBD0)
 
----
+<br/>
 
 ## ✦ Currently
 
-```python
-asmita = {
-    "studying":   "B.Tech Computer Engineering @ TIET (2023 to 2027)",
-    "exploring":  ["Agentic AI", "LLM applications", "AI evaluation", "Production AI engineering"],
-    "building":   ["AI products that make decisions", "full-stack apps that ship, not just demo"],
-    "open_to":    ["hackathon teams", "AI/ML collaborations", "internships"],
-    "motto":      "Build. Learn. Ship. Repeat.",
-}
-```
+🎓 **Studying**<br/>
+Computer Engineering @ TIET · 2023–2027
 
----
+🔭 **Exploring**<br/>
+Agentic AI · LLM Applications · AI Evaluation
 
-## ✦ GitHub at a glance
+🛠 **Building**<br/>
+AI products that make decisions, not just generate text
 
-<div align="center">
+🏆 **Into**<br/>
+Hackathons · AI/ML collaborations · product building
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=techAsmita&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B7CF6&text_color=8B8FA3&icon_color=63C7A6" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techAsmita&layout=compact&hide_border=true&bg_color=00000000&title_color=8B7CF6&text_color=8B8FA3" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=techAsmita&hide_border=true&background=00000000&ring=8B7CF6&fire=F4A6C0&currStreakLabel=8B7CF6&sideLabels=8B8FA3&currStreakNum=8B8FA3&sideNums=8B8FA3&dates=8B8FA3" alt="Streak" />
-
-</div>
-
----
-
-<!--
-OPTIONAL: Beyond code. Uncomment and fill in your own, so this section is real.
-
-## ✦ Beyond code
-
-- 📚 What you're reading:
-- 🎨 What you make or do for fun:
-- ☕ What you'd talk about over coffee:
-
----
--->
+<br/>
 
 <div align="center">
 
-### Let's build something
+## ✦ Let's Build
 
-I'm always up for hackathon teams, AI/ML collaborations, and good conversations about building with AI.
+Have an interesting AI idea, hackathon, or project? Let's talk.
 
-<a href="https://www.linkedin.com/in/techasmita/"><img src="https://img.shields.io/badge/Say_hi_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:asmitaasmani@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-F4A6C0?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2430?style=flat-square&logo=linkedin&logoColor=B9A8FF)](https://www.linkedin.com/in/techasmita/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F2430?style=flat-square&logo=googlechrome&logoColor=F4A6C0)](https://techasmita.github.io/Portfolio-Website/)
+[![Email](https://img.shields.io/badge/Email-1F2430?style=flat-square&logo=gmail&logoColor=7FDBD0)](mailto:asmitaasmani@gmail.com)
 
-<i>Build. Learn. Ship. Repeat. 🚀</i>
+<sub>Build. Learn. Ship. Repeat. 🚀</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B7CF6,50:F4A6C0,100:63C7A6&height=100&section=footer" width="100%" alt="footer" />
