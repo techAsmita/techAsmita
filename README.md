@@ -40,7 +40,8 @@ AI agents → revenue → personalised decisions.
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+
+<td width="50%" valign="top">
 
 ### ⚡ [Pactra AI](https://github.com/techAsmita/Pactra-AI-Project)
 **Founder Decision Intelligence**
@@ -52,6 +53,20 @@ Agreements · Risk · Decision Support. Helps founders understand what they're s
 [Live Demo](https://pactra-ai-project.vercel.app/) · [Code](https://github.com/techAsmita/Pactra-AI-Project)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🔍 [AlphaLens AI](https://github.com/techAsmita/AlphaLens-AI)
+**Engineering Intelligence Platform**
+
+See the signals before the headlines.
+
+`Add` · `Your` · `Stack`
+
+[Live Demo](https://alpha-lens-ai-eta.vercel.app/) · [Code](https://github.com/techAsmita/AlphaLens-AI)
+
+</td>
+
 </tr>
 </table>
 
