@@ -32,8 +32,6 @@
 
 ## ✦ What I Like Building
 
-## ✦ What I Like Building
-
 - **AI that does something**, not just generates text
 - Adaptive learning & decision-support systems
 - AI-powered business products
