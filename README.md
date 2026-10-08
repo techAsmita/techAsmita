@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,45:9B8AFB,100:2CB67D&height=220&section=header&text=Asmita%20Roy&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20Software%20Engineering%20%20%E2%80%A2%20%20Full-Stack&descAlignY=60&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,45:9B8AFB,100:2CB67D&height=165&section=header&text=Asmita%20Roy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Full-Stack&descAlignY=61&descSize=17"
   width="100%"
   alt="Asmita Roy"
 />
@@ -50,7 +50,7 @@ Currently exploring **Generative AI, Agentic AI, and AI product engineering**.
 
 <td width="50%" valign="top">
 
-<h3>🎓 LearnLoop AI</h3>
+<h3>🎓 <a href="https://github.com/techAsmita/LearnLoop-AI">LearnLoop AI</a></h3>
 
 <p>
 <b>Adaptive AI Tutor for Learning AI</b>
@@ -62,19 +62,16 @@ reassesses understanding, and adapts the learner state.
 </p>
 
 <p>
-<code>Next.js</code>
-<code>FastAPI</code>
-<code>Gemini</code>
-<code>SQLAlchemy</code>
+<code>Next.js</code> <code>FastAPI</code> <code>Gemini</code> <code>SQLAlchemy</code>
 </p>
 
 <p>
-<a href="https://github.com/techAsmita/LearnLoop-AI">
-  📂 Repository
-</a>
-&nbsp;&nbsp;
 <a href="https://learnloop-ai-eight.vercel.app/">
-  🔗 Live Demo
+🔗 Live Demo
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/techAsmita/LearnLoop-AI">
+📂 Repository
 </a>
 </p>
 
@@ -82,32 +79,28 @@ reassesses understanding, and adapts the learner state.
 
 <td width="50%" valign="top">
 
-<h3>💅 StyleSync AI</h3>
+<h3>💅 <a href="https://github.com/techAsmita/StyleSync-AI">StyleSync AI</a></h3>
 
 <p>
 <b>Revenue Intelligence for Beauty Businesses</b>
 </p>
 
 <p>
-AI-powered platform designed to turn business data into actionable
-insights and personalised customer experiences.
+AI-powered platform combining business insights with personalised
+customer experiences.
 </p>
 
 <p>
-<code>React</code>
-<code>FastAPI</code>
-<code>AI</code>
-<code>Vercel</code>
-<code>Render</code>
+<code>React</code> <code>FastAPI</code> <code>AI</code> <code>Vercel</code> <code>Render</code>
 </p>
 
 <p>
-<a href="https://github.com/techAsmita/StyleSync-AI">
-  📂 Repository
-</a>
-&nbsp;&nbsp;
 <a href="https://style-sync-ai-chi.vercel.app/">
-  🔗 Live Demo
+🔗 Live Demo
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/techAsmita/StyleSync-AI">
+📂 Repository
 </a>
 </p>
 
@@ -119,7 +112,7 @@ insights and personalised customer experiences.
 
 <td width="50%" valign="top">
 
-<h3>📄 Pactra AI</h3>
+<h3>📄 <a href="https://github.com/techAsmita/Pactra-AI-Project">Pactra AI</a></h3>
 
 <p>
 <b>Founder Decision Intelligence Platform</b>
@@ -131,18 +124,16 @@ risks, and important contractual decisions.
 </p>
 
 <p>
-<code>AI</code>
-<code>FastAPI</code>
-<code>PostgreSQL</code>
+<code>AI</code> <code>FastAPI</code> <code>PostgreSQL</code>
 </p>
 
 <p>
-<a href="https://github.com/techAsmita/Pactra-AI-Project">
-  📂 Repository
-</a>
-&nbsp;&nbsp;
 <a href="https://pactra-ai-project.vercel.app/">
-  🔗 Live Demo
+🔗 Live Demo
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/techAsmita/Pactra-AI-Project">
+📂 Repository
 </a>
 </p>
 
@@ -159,7 +150,7 @@ research work, and coursework live across my repositories.
 
 <p>
 <a href="https://github.com/techAsmita?tab=repositories">
-  🔎 Explore all repositories →
+🔎 Explore all repositories →
 </a>
 </p>
 
@@ -214,9 +205,6 @@ research work, and coursework live across my repositories.
 ---
 
 ## 🤝 Let's Connect
-
-I'm always interested in connecting with people building interesting
-things in **AI, software engineering, research, and startups**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/techasmita/">
