@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Asmita Roy: AI / ML, Software, AI Products" />
+<img src="banner.svg" width="100%" alt="Asmita Roy: AI / ML, Software, AI Products" />
 
 </div>
 
