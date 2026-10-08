@@ -4,6 +4,8 @@
 
 </div>
 
+## ✦ Featured Projects
+
 <p align="center">
   <a href="https://learnloop-ai-eight.vercel.app/"><img src="card-learnloop.svg" width="49%" alt="LearnLoop AI" /></a>
   <a href="https://style-sync-ai-chi.vercel.app/"><img src="card-stylesync.svg" width="49%" alt="StyleSync AI" /></a>
@@ -22,9 +24,13 @@
   <a href="https://github.com/techAsmita/AlphaLens-AI">AlphaLens</a>
 </p>
 
+<div align="center">
+
 ### **More hackathon builds, research and experiments → [all repositories](https://github.com/techAsmita?tab=repositories)**
 
 </div>
+
+## ✦ What I Like Building
 
 ## ✦ What I Like Building
 
