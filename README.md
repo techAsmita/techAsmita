@@ -1,45 +1,40 @@
-<h1 align="center">
-  Asmita Roy
-</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Computer Engineering @ Thapar Institute of Engineering & Technology</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B7CF6,100:63C7A6&height=190&section=header&text=Asmita%20Roy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Full-Stack&descAlignY=61&descSize=18" width="100%" alt="Asmita Roy header" />
 
-<p align="center">
-  AI/ML&nbsp; • &nbsp;Software Engineering&nbsp; • &nbsp;Full-Stack Development
-</p>
+<h2>Computer Engineering @ Thapar Institute of Engineering & Technology</h2>
 
-<p align="center">
+<p>
   <i>Turning ideas into products, one commit at a time ✦</i>
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/techasmita/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://techasmita.github.io/Portfolio-Website/">
-    <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:asmitaasmani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+</div>
 
 ---
 
 ## 👩‍💻 About
 
-I like building at the intersection of **AI and software** — turning ideas
-into intelligent applications and full-stack products that people can actually use.
+I build at the intersection of **AI and software** — turning ideas into intelligent applications and full-stack products that people can actually use.
 
-Currently exploring **Generative AI, Agentic AI, and AI product engineering**.
+Currently exploring **Generative AI, Agentic AI, LLM applications, and AI product engineering**.
 
-🎓 Computer Engineering @ TIET · 2023–2027  
-🤖 AI/ML · LLM Applications · AI Agents  
-🏆 Hackathon builder · Open-source contributor
+- 🎓 Computer Engineering @ TIET · 2023–2027
+- 🤖 AI/ML · LLM Applications · AI Agents
+- 🏆 Hackathon builder · Open-source contributor
 
 ---
 
@@ -50,59 +45,29 @@ Currently exploring **Generative AI, Agentic AI, and AI product engineering**.
 
 <td width="50%" valign="top">
 
-<h3>🎓 <a href="https://github.com/techAsmita/LearnLoop-AI">LearnLoop AI</a></h3>
+### 🎓 [LearnLoop AI](https://github.com/techAsmita/LearnLoop-AI)
 
-<p>
-<b>Adaptive AI Tutor for Learning AI</b>
-</p>
+**Adaptive AI Tutor for Learning AI**
 
-<p>
-Identifies learner misconceptions, delivers targeted interventions,
-reassesses understanding, and adapts the learner state.
-</p>
+Identifies learner misconceptions, delivers targeted interventions, reassesses understanding, and adapts the learner state.
 
-<p>
-<code>Next.js</code> <code>FastAPI</code> <code>Gemini</code> <code>SQLAlchemy</code>
-</p>
+`Next.js` `FastAPI` `Gemini` `SQLAlchemy`
 
-<p>
-<a href="https://learnloop-ai-eight.vercel.app/">
-🔗 Live Demo
-</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/techAsmita/LearnLoop-AI">
-📂 Repository
-</a>
-</p>
+[🔗 Live Demo](https://learnloop-ai-eight.vercel.app/) · [📁 Repository](https://github.com/techAsmita/LearnLoop-AI)
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>💅 <a href="https://github.com/techAsmita/StyleSync-AI">StyleSync AI</a></h3>
+### 💅 [StyleSync AI](https://github.com/techAsmita/StyleSync-AI)
 
-<p>
-<b>Revenue Intelligence for Beauty Businesses</b>
-</p>
+**Revenue Intelligence for Beauty Businesses**
 
-<p>
-AI-powered platform combining business insights with personalised
-customer experiences.
-</p>
+AI-powered platform combining business intelligence with personalised customer experiences.
 
-<p>
-<code>React</code> <code>FastAPI</code> <code>AI</code> <code>Vercel</code> <code>Render</code>
-</p>
+`React` `FastAPI` `AI` `Vercel` `Render`
 
-<p>
-<a href="https://style-sync-ai-chi.vercel.app/">
-🔗 Live Demo
-</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/techAsmita/StyleSync-AI">
-📂 Repository
-</a>
-</p>
+[🔗 Live Demo](https://style-sync-ai-chi.vercel.app/) · [📁 Repository](https://github.com/techAsmita/StyleSync-AI)
 
 </td>
 
@@ -112,47 +77,25 @@ customer experiences.
 
 <td width="50%" valign="top">
 
-<h3>📄 <a href="https://github.com/techAsmita/Pactra-AI-Project">Pactra AI</a></h3>
+### 📄 [Pactra AI](https://github.com/techAsmita/Pactra-AI-Project)
 
-<p>
-<b>Founder Decision Intelligence Platform</b>
-</p>
+**Founder Decision Intelligence Platform**
 
-<p>
-A decision layer that helps founders understand agreements,
-risks, and important contractual decisions.
-</p>
+A decision layer that helps founders understand agreements, risks, and important contractual decisions.
 
-<p>
-<code>AI</code> <code>FastAPI</code> <code>PostgreSQL</code>
-</p>
+`AI` `FastAPI` `PostgreSQL`
 
-<p>
-<a href="https://pactra-ai-project.vercel.app/">
-🔗 Live Demo
-</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/techAsmita/Pactra-AI-Project">
-📂 Repository
-</a>
-</p>
+[🔗 Live Demo](https://pactra-ai-project.vercel.app/) · [📁 Repository](https://github.com/techAsmita/Pactra-AI-Project)
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>✨ More Builds</h3>
+### ✨ More Builds
 
-<p>
-More AI/ML projects, experiments, hackathon builds,
-research work, and coursework live across my repositories.
-</p>
+AI/ML projects, experiments, research work, hackathon builds, and coursework live across my repositories.
 
-<p>
-<a href="https://github.com/techAsmita?tab=repositories">
-🔎 Explore all repositories →
-</a>
-</p>
+[🔎 Explore all repositories →](https://github.com/techAsmita?tab=repositories)
 
 </td>
 
@@ -200,24 +143,30 @@ research work, and coursework live across my repositories.
 
 ## 🌱 Currently Exploring
 
-**Agentic AI** · **LLM Applications** · **AI Evaluation** · **Production AI Engineering**
+**Agentic AI · LLM Applications · AI Evaluation · Production AI Engineering**
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/techasmita/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://techasmita.github.io/Portfolio-Website/">
-    <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:asmitaasmani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Build. Learn. Ship. Repeat. 🚀</i>
-</p>
+<a href="https://www.linkedin.com/in/techasmita/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://techasmita.github.io/Portfolio-Website/">
+  <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="mailto:asmitaasmani@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<i>Build. Learn. Ship. Repeat. 🚀</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B7CF6,100:63C7A6&height=90&section=footer" width="100%" alt="footer" />
