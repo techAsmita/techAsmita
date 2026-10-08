@@ -4,73 +4,23 @@
 
 </div>
 
-## ✦ Featured Projects
+<p align="center">
+  <a href="https://learnloop-ai-eight.vercel.app/"><img src="card-learnloop.svg" width="49%" alt="LearnLoop AI" /></a>
+  <a href="https://style-sync-ai-chi.vercel.app/"><img src="card-stylesync.svg" width="49%" alt="StyleSync AI" /></a>
+</p>
 
-<table width="100%">
-<tr>
+<p align="center">
+  <a href="https://pactra-ai-project.vercel.app/"><img src="card-pactra.svg" width="49%" alt="Pactra AI" /></a>
+  <a href="https://alpha-lens-ai-eta.vercel.app/"><img src="card-alphalens.svg" width="49%" alt="AlphaLens AI" /></a>
+</p>
 
-<td width="50%" valign="top">
-
-### 🧠 [LearnLoop AI](https://github.com/techAsmita/LearnLoop-AI)
-**Adaptive AI Tutor**
-
-Detects misconceptions → intervenes → reassesses → adapts to the learner.
-
-`Next.js` · `FastAPI` · `Gemini` · `SQLAlchemy`
-
-[Live Demo](https://learnloop-ai-eight.vercel.app/) · [Code](https://github.com/techAsmita/LearnLoop-AI)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💅 [StyleSync AI](https://github.com/techAsmita/StyleSync-AI)
-**Revenue Intelligence for Beauty Businesses**
-
-AI agents → revenue → personalised decisions.
-
-`React` · `FastAPI` · `Groq` · `Vercel` · `Render`
-
-[Live Demo](https://style-sync-ai-chi.vercel.app/) · [Code](https://github.com/techAsmita/StyleSync-AI)
-
-</td>
-
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ [Pactra AI](https://github.com/techAsmita/Pactra-AI-Project)
-**Founder Decision Intelligence**
-
-Agreements · Risk · Decision Support. Helps founders understand what they're signing and what could go wrong.
-
-`FastAPI` · `PostgreSQL` · `AI`
-
-[Live Demo](https://pactra-ai-project.vercel.app/) · [Code](https://github.com/techAsmita/Pactra-AI-Project)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔍 [AlphaLens AI](https://github.com/techAsmita/AlphaLens-AI)
-**Engineering Intelligence Platform**
-
-See the signals before the headlines.
-
-`Add` · `Your` · `Stack`
-
-[Live Demo](https://alpha-lens-ai-eta.vercel.app/) · [Code](https://github.com/techAsmita/AlphaLens-AI)
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
+<p align="center">
+  <b>Source code:</b>
+  <a href="https://github.com/techAsmita/LearnLoop-AI">LearnLoop</a> ·
+  <a href="https://github.com/techAsmita/StyleSync-AI">StyleSync</a> ·
+  <a href="https://github.com/techAsmita/Pactra-AI-Project">Pactra</a> ·
+  <a href="https://github.com/techAsmita/AlphaLens-AI">AlphaLens</a>
+</p>
 
 ### **More hackathon builds, research and experiments → [all repositories](https://github.com/techAsmita?tab=repositories)**
 
