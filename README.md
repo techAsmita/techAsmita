@@ -4,9 +4,7 @@
 
 </div>
 
-<br/>
-
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
@@ -14,17 +12,15 @@
 
 I build at the intersection of **AI and software**: intelligent applications, agents and full-stack products.
 
-🎓 2023–2027 &nbsp;·&nbsp; 🤖 AI / ML &nbsp;·&nbsp; 🚀 AI Products
+2023–2027 &nbsp;·&nbsp; AI / ML &nbsp;·&nbsp; AI Products
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 ## ✦ Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -56,14 +52,14 @@ AI agents → revenue → personalised decisions.
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td width="100%" valign="top">
 
-### 📄 [Pactra AI](https://github.com/techAsmita/Pactra-AI-Project)
+### ⚡ [Pactra AI](https://github.com/techAsmita/Pactra-AI-Project)
 **Founder Decision Intelligence**
 
-Agreements · Risk · Decision Support. A decision layer that helps founders understand what they are signing and what could go wrong.
+Agreements · Risk · Decision Support. Helps founders understand what they're signing and what could go wrong.
 
 `FastAPI` · `PostgreSQL` · `AI`
 
@@ -75,18 +71,12 @@ Agreements · Risk · Decision Support. A decision layer that helps founders und
 
 <sub>More hackathon builds, research and experiments → [all repositories](https://github.com/techAsmita?tab=repositories)</sub>
 
-<br/>
-
 ## ✦ What I Like Building
 
 - **AI that does something**, not just generates text
-- Adaptive learning systems
-- Decision-support products
-- AI-powered business tools
-- Multimodal applications
+- Adaptive learning & decision-support systems
+- AI-powered business products
 - Full-stack products that go beyond the demo
-
-<br/>
 
 ## ✦ Tech I Build With
 
@@ -97,6 +87,8 @@ Agreements · Risk · Decision Support. A decision layer that helps founders und
 ![JavaScript](https://img.shields.io/badge/JavaScript-1F2430?style=flat-square&logo=javascript&logoColor=B9A8FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1F2430?style=flat-square&logo=typescript&logoColor=B9A8FF)
 ![SQL](https://img.shields.io/badge/SQL-1F2430?style=flat-square&logo=postgresql&logoColor=B9A8FF)
+
+&nbsp;
 
 **AI / ML**<br/>
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-1F2430?style=flat-square)
@@ -109,12 +101,16 @@ Agreements · Risk · Decision Support. A decision layer that helps founders und
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1F2430?style=flat-square&logo=tensorflow&logoColor=F4A6C0)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1F2430?style=flat-square&logo=opencv&logoColor=F4A6C0)
 
+&nbsp;
+
 **Product Engineering**<br/>
 ![React](https://img.shields.io/badge/React-1F2430?style=flat-square&logo=react&logoColor=B9A8FF)
 ![Next.js](https://img.shields.io/badge/Next.js-1F2430?style=flat-square&logo=nextdotjs&logoColor=B9A8FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1F2430?style=flat-square&logo=fastapi&logoColor=B9A8FF)
 ![Node.js](https://img.shields.io/badge/Node.js-1F2430?style=flat-square&logo=nodedotjs&logoColor=B9A8FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2430?style=flat-square&logo=postgresql&logoColor=B9A8FF)
+
+&nbsp;
 
 **Tools**<br/>
 ![Git](https://img.shields.io/badge/Git-1F2430?style=flat-square&logo=git&logoColor=7FDBD0)
@@ -124,23 +120,16 @@ Agreements · Risk · Decision Support. A decision layer that helps founders und
 ![Vercel](https://img.shields.io/badge/Vercel-1F2430?style=flat-square&logo=vercel&logoColor=7FDBD0)
 ![Render](https://img.shields.io/badge/Render-1F2430?style=flat-square&logo=render&logoColor=7FDBD0)
 
-<br/>
-
 ## ✦ Currently
 
 🎓 **Studying**<br/>
-Computer Engineering @ TIET · 2023–2027
-
+Computer Engineering @ TIET · 2023–2027<br/>
 🔭 **Exploring**<br/>
-Agentic AI · LLM Applications · AI Evaluation
-
+Agentic AI · LLM Applications · AI Evaluation<br/>
 🛠 **Building**<br/>
-AI products that make decisions, not just generate text
-
+AI products that make decisions, not just generate text<br/>
 🏆 **Into**<br/>
-Hackathons · AI/ML collaborations · product building
-
-<br/>
+Hackathons · AI/ML collaborations · Product building
 
 <div align="center">
 
@@ -148,10 +137,8 @@ Hackathons · AI/ML collaborations · product building
 
 Have an interesting AI idea, hackathon, or project? Let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2430?style=flat-square&logo=linkedin&logoColor=B9A8FF)](https://www.linkedin.com/in/techasmita/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F2430?style=flat-square&logo=googlechrome&logoColor=F4A6C0)](https://techasmita.github.io/Portfolio-Website/)
-[![Email](https://img.shields.io/badge/Email-1F2430?style=flat-square&logo=gmail&logoColor=7FDBD0)](mailto:asmitaasmani@gmail.com)
+### [LinkedIn](https://www.linkedin.com/in/techasmita/) &nbsp;·&nbsp; [Portfolio](https://techasmita.github.io/Portfolio-Website/) &nbsp;·&nbsp; [Email](mailto:asmitaasmani@gmail.com)
 
-<sub>Build. Learn. Ship. Repeat. 🚀</sub>
+Build. Learn. Ship. Repeat. 🚀
 
 </div>
